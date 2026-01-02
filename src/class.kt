@@ -7,7 +7,6 @@
 // nested class
 // inner class
 
-package oop
 
 // === 1. NORMAL CLASS ===
 // Class biasa, digunakan untuk membuat objek standar.
